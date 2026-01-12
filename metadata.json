@@ -1,0 +1,8 @@
+{
+  "name": "Grandmart Mobile",
+  "description": "Cross-platform supermarket app for iOS and Android.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
